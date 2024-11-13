@@ -10,7 +10,7 @@
 
 
 " Colorscheme
-colorscheme wal
+colorscheme pywal
 
 augroup specify_filetype
     autocmd!
