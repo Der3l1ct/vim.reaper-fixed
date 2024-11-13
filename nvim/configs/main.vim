@@ -65,9 +65,6 @@ set shiftround
 " Enable syntax highlighting
 syntax on
 
-" Print syntax highlighting.
-set printoptions+=syntax:y
-
 " Matching braces/tags
 set showmatch
 
