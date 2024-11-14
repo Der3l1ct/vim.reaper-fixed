@@ -1,4 +1,5 @@
 #!/bin/bash
+
 sudo pacman -S fzf ccls jdk-openjdk lazygit
 yay -S lazydocker
 
