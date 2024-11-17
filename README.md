@@ -54,9 +54,16 @@
 
 # Installation
 
-The `update_config.sh` script simply copies the `nvim` folder into your `$HOME/.config` directory. This script can also be used to update configurations that you have modified or have been updated from git.
+Install for Arch:
+sudo rm - rf .config/nvim
+git clone https://github.com/Der3l1ct/vim.reaper-fixed/blob/master/install.sh
+cd vim.reaper-fixed
+chmod +x install.sh
+./install.sh
 
-Before installing for the first time, go into the `vim.reaper/nvim` directory and run `nvim -u init.vim`. This will tell neovim to launch using this configuration file. This lets you fully get everything up and running before you commit to puting it in `.config`. Back up any old configs!
+Open neovim and run the command :PlugInstall
+
+Restart neovim
 
 # Usage
 
