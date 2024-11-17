@@ -55,15 +55,13 @@
 # Installation
 
 Install for Arch:
-<code>
-sudo rm - rf .config/nvim
+<code>sudo rm - rf .config/nvim
 git clone https://github.com/Der3l1ct/vim.reaper-fixed/blob/master/install.sh
 cd vim.reaper-fixed
 chmod +x install.sh
-./install.sh
-<code/>
+./install.sh<code/>
 
-Open neovim and run the command :PlugInstall
+Open neovim and run the command <code>:PlugInstall<code/>
 
 Restart neovim
 
