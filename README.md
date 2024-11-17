@@ -1,4 +1,4 @@
-<p align="center">
+Remote<p align="center">
   <img src="/ascii.png", width="600", height="400", title="vim.reaper"/>
 </p>
 
@@ -61,9 +61,7 @@ Install for Arch:
 cd vim.reaper-fixed
 chmod +x install.sh
 <./install.sh<code/>
-
 Open neovim and run the command <code>:PlugInstall<code/>
-
 Restart neovim
 
 # Usage
