@@ -1,4 +1,5 @@
-Remote<p align="center">
+<p align="center">
+ Vim.Reaper <p align="center">
   <img src="/ascii.png", width="600", height="400", title="vim.reaper"/>
 </p>
 
@@ -56,12 +57,12 @@ Remote<p align="center">
 
 Install for Arch:
 
-<code>sudo rm - rf .config/nvim
-<code>git clone https://github.com/Der3l1ct/vim.reaper-fixed/blob/master/install.sh
-cd vim.reaper-fixed
-chmod +x install.sh
-<./install.sh<code/>
-Open neovim and run the command <code>:PlugInstall<code/>
+<code>sudo rm - rf .config/nvim</code>
+<code>git clone https://github.com/Der3l1ct/vim.reaper-fixed/blob/master/install.sh</code>
+<code>cd vim.reaper-fixed</code>
+<code>chmod +x install.sh</code>
+<code>./install.sh</code>
+Open neovim and run the command <code>PlugInstall</code>
 Restart neovim
 
 # Usage
