@@ -58,7 +58,7 @@
 Install for Arch:
 
 <code>sudo rm - rf .config/nvim</code><br>
-<code>git clone https://github.com/Der3l1ct/vim.reaper-fixed/blob/master/install.sh</code><br>
+<code>git clone https://github.com/Der3l1ct/vim.reaper-fixed</code><br>
 <code>cd vim.reaper-fixed</code><br>
 <code>chmod +x install.sh</code><br>
 <code>./install.sh</code><br>
