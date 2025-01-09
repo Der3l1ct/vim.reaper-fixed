@@ -115,5 +115,7 @@ Plug 'easymotion/vim-easymotion'
 
 " Plug 'vimwiki/vimwiki'
 
+" MiniMap
+Plug 'echasnovski/mini.nvim'
 
 call plug#end()
