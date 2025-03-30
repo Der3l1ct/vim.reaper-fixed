@@ -1,7 +1,7 @@
 #!/bin/bash
 
-sudo pacman -S fzf ccls jdk-openjdk lazygit
-yay -S lazydocker
+sudo pacman -S fzf ccls jdk-openjdk lazygit nodejs
+yay -S lazydocker code-minimap
 
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
